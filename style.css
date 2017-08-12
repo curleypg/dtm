@@ -394,6 +394,18 @@ footer a:hover {
 	margin: 0 0 0.5rem 2.571428571rem;
 }
 
+/* Newsletter for */
+
+enews-subbox {
+	background: transparent;
+	border: none;
+	border-bottom: 1px solid #F0718B;
+}
+
+#subbutton {
+	display: block;
+}
+
 @media screen and (max-width: 599px)  {
 .main-navigation ul.nav-menu.toggled-on,
 .menu-toggle {
