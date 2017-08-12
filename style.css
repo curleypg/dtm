@@ -396,7 +396,7 @@ footer a:hover {
 
 /* Newsletter for */
 
-enews-subbox {
+.enews-subbox {
 	background: transparent;
 	border: none;
 	border-bottom: 1px solid #F0718B;
