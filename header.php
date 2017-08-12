@@ -34,13 +34,13 @@
 <body <?php body_class(); ?>>
 <div id="page" class="hfeed site">
 	<header id="masthead" class="site-header" role="banner">
-		<?php
-		if (is_front_page()) :
-    		echo do_shortcode("[metaslider id=85]");
-		endif;
-		?>
 		<hgroup>
 			<h1 class="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
+			<?php
+			if (is_front_page()) :
+	    		echo do_shortcode("[metaslider id=85]");
+			endif;
+			?>
 			<h2 class="site-description"><?php bloginfo( 'description' ); ?></h2>
 		</hgroup>
 
