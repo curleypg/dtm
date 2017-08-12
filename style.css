@@ -15,7 +15,7 @@
  Text Domain:  purple-delight
 */
 @import url("../twentytwelve/style.css");
-@import url(//fonts.googleapis.com/css?family=Indie+Flower);
+/*@import url(//fonts.googleapis.com/css?family=Indie+Flower);*/
 /* =Theme customization starts here
 
 -------------------------------------------------------------- */
@@ -247,7 +247,7 @@ blockquote {
 
 .entry-header .entry-title {
 	color: #816b88;
-	font-family: 'Indie Flower', cursive;
+	/*font-family: 'Indie Flower', cursive;*/
 	font-size: 48px;
 	font-weight: bold;
 	}
