@@ -389,6 +389,13 @@ footer a:hover {
 	border-radius: 15px;
 }
 
+/* Custom list style */
+
+.entry-content li {
+	margin: 0 0 0 36px;
+	margin: 0 0 1.7rem 2.571428571rem;
+}
+
 @media screen and (max-width: 599px)  {
 .main-navigation ul.nav-menu.toggled-on,
 .menu-toggle {
