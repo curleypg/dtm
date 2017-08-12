@@ -383,6 +383,12 @@ footer a:hover {
 	width: 310px;
 }
 
+/* Borders on the image slider */
+
+.flex-viewport {
+	border-radius: 15px;
+}
+
 @media screen and (max-width: 599px)  {
 .main-navigation ul.nav-menu.toggled-on,
 .menu-toggle {
