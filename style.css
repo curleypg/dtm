@@ -68,6 +68,10 @@ blockquote {
 	border-left: 5px solid rgb(0,142,178);
 }
 
+.site-title {
+	color: #F0718B;
+}
+
 .site-description {
 	margin-bottom: 15px;
 }
