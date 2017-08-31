@@ -406,6 +406,7 @@ footer a:hover {
 	border-bottom: 1px solid #F0718B;
 	width: 100%;
 	text-align: center;
+	margin: 3px auto;
 }
 
 #subbutton {
@@ -414,7 +415,7 @@ footer a:hover {
 	background: pink;
 	color: white;
 	font-size: 125%;
-	margin: 0 auto;
+	margin: 10px auto;
 }
 
 @media screen and (max-width: 599px)  {
