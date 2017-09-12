@@ -15,7 +15,7 @@
  Text Domain:  purple-delight
 */
 @import url("../twentytwelve/style.css");
-/*@import url(//fonts.googleapis.com/css?family=Indie+Flower);*/
+@import url('https://fonts.googleapis.com/css?family=Lustria');
 /* =Theme customization starts here
 
 -------------------------------------------------------------- */
@@ -73,6 +73,7 @@ blockquote {
 }
 
 .site-description {
+	font-family: 'Lustria', serif;
 	margin-bottom: 15px;
 }
 
@@ -251,7 +252,6 @@ blockquote {
 
 .entry-header .entry-title {
 	color: #816b88;
-	/*font-family: 'Indie Flower', cursive;*/
 	font-size: 48px;
 	font-weight: bold;
 	}
@@ -298,7 +298,7 @@ h1.entry-title {
 	}
 
 .widget-title {
-	font-family: 'Indie Flower', cursive;
+	font-family: 'Lustria', serif;
 	font-size: 18px;
 	color: #000;
 	padding: 5px;
