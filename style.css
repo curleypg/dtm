@@ -378,7 +378,7 @@ footer a:hover {
 
 .container-flex-no-wrap {
   display: flex;
-  flex-wrap: nowrap;
+  flex-flow: row wrap;
 }
 
 .container-justify-content {
