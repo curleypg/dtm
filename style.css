@@ -376,6 +376,15 @@ footer a:hover {
   flex-wrap: wrap;
 }
 
+.container-flex-no-wrap {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.container-justify-content {
+  justify-content: space-around;
+}
+
 .flex {
   width: 310px;
 }
