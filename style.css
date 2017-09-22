@@ -389,15 +389,15 @@ footer a:hover {
   width: 310px;
 }
 
-footer .site-info div {
+footer .site-info > div {
   width: 33%;
 }
 
-footer .site-info:nth-child(2) {
+footer .site-info > div:nth-child(2) {
   text-align: center;
 }
 
-footer .site-info:nth-child(3) {
+footer .site-info > div:nth-child(3) {
   text-align: right;
 }
 
