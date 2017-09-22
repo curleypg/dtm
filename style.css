@@ -401,6 +401,14 @@ footer .site-info > div:nth-child(3) {
   text-align: right;
 }
 
+#secondary > div {
+	display: flex;
+}
+
+#custom_html-3 > div {
+	width: 325px;
+}
+
 /* Borders on the image slider */
 
 .flex-viewport {
